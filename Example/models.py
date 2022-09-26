@@ -12,4 +12,3 @@ class Answer (models.Model):
     content = models.TextField
     create_date = models.DateTimeField()
 
-    
